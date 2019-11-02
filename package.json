@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "nearlink",
+  "version": "",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nipplejs": "^0.8.0",
+    "npm": "^6.12.1",
+    "socket.io": "^2.2.0"
+  },
+  "pkg": {
+	"assets": ["./*", "controllerServer/*", "gamepadPages/*", "vjoysetupfiles/*"]
+  },
+  "bin": {
+	"nearlink": "./server.js"
+  }
+}

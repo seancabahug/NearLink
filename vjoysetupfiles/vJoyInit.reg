@@ -1,0 +1,4 @@
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\vjoy\Parameters\Device01\Init]
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\vjoy\Parameters\Device02\Init]
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\vjoy\Parameters\Device03\Init]
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\vjoy\Parameters\Device04\Init]
