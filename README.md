@@ -1,6 +1,8 @@
 # NearLink
 Play with friends on a single computer using only your phones; no extra controllers needed! Our submission for the 2019 Congressional App Challenge.
 
+As of 11/1/2019, iOS has seen several issues in regards to this application; it is highly recommended to use Chrome on Android.
+
 [Source Code](https://github.com/seancabahug/NearLink-source)
 [Demonstration Video](https://youtu.be/rozb-hcB_Ik)
 
